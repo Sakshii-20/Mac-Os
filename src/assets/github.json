@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "https://avatars.githubusercontent.com/u/9892522?s=200",
+    "title": "freeCodeCamp",
+    "description": "Open-source platform that helps people learn web development and computer science for free.",
+    "tags": ["Education", "JavaScript", "Full Stack"],
+    "repolink": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "demolink": "https://www.freecodecamp.org"
+  },
+  {
+    "id": 2,
+    "image": "https://avatars.githubusercontent.com/u/69631?s=200",
+    "title": "React",
+    "description": "A JavaScript library for building fast and interactive user interfaces.",
+    "tags": ["React", "JavaScript", "Frontend"],
+    "repolink": "https://github.com/facebook/react",
+    "demolink": "https://react.dev"
+  },
+  {
+    "id": 3,
+    "image": "https://avatars.githubusercontent.com/u/2918581?s=200",
+    "title": "Bootstrap",
+    "description": "Popular HTML, CSS, and JS framework for responsive, mobile-first websites.",
+    "tags": ["CSS", "UI Framework", "Responsive"],
+    "repolink": "https://github.com/twbs/bootstrap",
+    "demolink": "https://getbootstrap.com"
+  },
+  {
+    "id": 4,
+    "image": "https://avatars.githubusercontent.com/u/51104654?s=200",
+    "title": "Public APIs",
+    "description": "A huge collection of free APIs for developers to use in projects.",
+    "tags": ["API", "Resources", "Open Source"],
+    "repolink": "https://github.com/public-apis/public-apis",
+    "demolink": "https://publicapis.org"
+  },
+  {
+    "id": 5,
+    "image": "https://avatars.githubusercontent.com/u/37629388?s=200",
+    "title": "System Design Primer",
+    "description": "Learn how to design scalable systems with real-world examples.",
+    "tags": ["Backend", "System Design", "Architecture"],
+    "repolink": "https://github.com/donnemartin/system-design-primer",
+    "demolink": "https://github.com/donnemartin/system-design-primer#readme"
+  }
+]

@@ -1,0 +1,20 @@
+.cli-window {
+  height: 100%;
+  width: 100%;
+
+
+  .react-console-emulator {
+    height: 100%;
+    overflow-y: auto;
+  }
+
+ 
+  .react-console-emulator::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .react-console-emulator::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+  }
+}

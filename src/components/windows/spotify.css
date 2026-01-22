@@ -1,0 +1,11 @@
+.spotify-window {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.spotify-window iframe {
+  flex: 1;
+  pointer-events: auto;
+}/*# sourceMappingURL=spotify.css.map */
