@@ -6,7 +6,7 @@ import Github from './components/windows/Github';
 import Note from './components/Note';
 import Resume from './components/Resume';
 import Spotify from './components/windows/Spotify';
-import Cli from './components/windows/cli'
+import Cli from './components/windows/Cli';
 
 const App = () => {
   const [windowsstate, setwindowsstate] = useState({
